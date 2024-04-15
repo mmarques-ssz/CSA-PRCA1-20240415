@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\projNovo\projNovo\bin\Debug\projNovo.exe.config
+C:\Users\aluno\source\repos\projNovo\projNovo\bin\Debug\projNovo.exe
+C:\Users\aluno\source\repos\projNovo\projNovo\bin\Debug\projNovo.pdb
+C:\Users\aluno\source\repos\projNovo\projNovo\obj\Debug\projNovo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projNovo\projNovo\obj\Debug\projNovo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projNovo\projNovo\obj\Debug\projNovo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projNovo\projNovo\obj\Debug\projNovo.exe
+C:\Users\aluno\source\repos\projNovo\projNovo\obj\Debug\projNovo.pdb
