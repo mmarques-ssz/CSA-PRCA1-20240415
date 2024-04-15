@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\projExemplo\projExemplo\bin\Debug\projExemplo.exe.config
+C:\Users\aluno\source\repos\projExemplo\projExemplo\bin\Debug\projExemplo.exe
+C:\Users\aluno\source\repos\projExemplo\projExemplo\bin\Debug\projExemplo.pdb
+C:\Users\aluno\source\repos\projExemplo\projExemplo\obj\Debug\projExemplo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projExemplo\projExemplo\obj\Debug\projExemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projExemplo\projExemplo\obj\Debug\projExemplo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projExemplo\projExemplo\obj\Debug\projExemplo.exe
+C:\Users\aluno\source\repos\projExemplo\projExemplo\obj\Debug\projExemplo.pdb
